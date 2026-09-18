@@ -1,0 +1,8 @@
+{
+  "name": "Remix Kabachi Chinese Restaurant, Bar \u0026 Lodge",
+  "description": "Chinese food, cold drinks, and rooms upstairs in Ikoyi, Lagos. Order online for direct WhatsApp delivery and pickup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
